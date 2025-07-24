@@ -26,8 +26,8 @@ Type: JST-**XA**-4P
 |pin nr|marking|Function|remarks|
 |--|---|----|---|
 |1| 2B|2B||
-|3| 1A|1A||
-|2| 2A|2A||
+|2| 1A|1A||
+|3| 2A|2A||
 |4| 1B|1B||
 
 
