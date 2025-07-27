@@ -22,7 +22,9 @@ The pinout of the dupont connectors is as follows:
 
 ## Boot to FEL mode
 Press the reset button while shorting R53 with tweezers.
-the board should boot into FEL mode and connect to your PC
+the board should boot into FEL mode and connect to your PC.
+
+![FEL_MODE](../assets/FelMode.jpg){ width="400" }
 
 ## Installing driver
 
